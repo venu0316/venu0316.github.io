@@ -1,0 +1,39 @@
+.navbar-blue{
+	background: #0e3757;
+    border: none;
+	border-radius: 0px;
+	margin: 0;
+}
+.navbar-blue .navbar-brand{
+	    padding: 5px;
+}
+.navbar-blue .navbar-brand img{
+	
+}
+.navbar-blue  a{color:#fff!important;font-size:15px;}
+.codastar-rating{margin-top:15px;margin-right:30px!important;}
+.codastar-rating p{color:#fff}
+.codastar-rating .glyphicon-star{color:yellow}
+#home-page{padding: 200px 0px 350px 0px;
+    background-position: center;}
+.row{color:#fff}
+.row p{text-align:center;}
+.home-btn,.home-btn:hover{    
+	background-color: transparent;
+    color: #fff;
+}
+.bg-red{background-color:#eb5a49;}
+#whatwedo, #reviews,#clients,#whychooseus,#links,#contactus,#blog,#casestudies,#website{padding: 100px 0px 100px 0px;}
+#whatwedo a{color:#fff;}
+#services{padding: 100px 0px 100px 0px;}
+.white{color: black!important;}
+#clients,#links{background-color:#303030;}
+#whychooseus{background-attachment: fixed;}
+#whychooseus span{font-size: 60px;}
+ul {list-style: none;}
+#links ul li a{color:#fff;text-decoration:none;}
+#whychooseus ul li:before {content: '✓';}
+.dred-bg{margin-left: 75px;}
+.white a{text-decoration:none;}
+.border{}
+.icon{width:25px;}
